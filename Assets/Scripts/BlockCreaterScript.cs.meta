@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34005cd71f115354791a9041ad22efeb
+timeCreated: 1429697058
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlockBlue: {fileID: 482330, guid: c31bbd2d46e74754a88fe10f36038530, type: 2}
+  - BlockYellow: {fileID: 448142, guid: 022ab6be1eff90340ae4545c2ebd64bb, type: 2}
+  - BlockGrey: {fileID: 465826, guid: 18c2a5580ed9b0f478dbefa35884a403, type: 2}
+  - BlockRed: {fileID: 442624, guid: 6d0413ef0a1c2594b88d4de1a15395fe, type: 2}
+  - BlockGreen: {fileID: 477480, guid: c6fb539975e26f24ea519a5accffa3c4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
